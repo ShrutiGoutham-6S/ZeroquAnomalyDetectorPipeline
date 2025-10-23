@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+shap
+joblib
+openpyxl
+groq
+python-dotenv

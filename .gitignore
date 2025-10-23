@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore model files and temp outputs
+*.pkl
+*.log
+*.tmp
+*.csv
+*.xlsx
+
+# Ignore compiled artifacts
+*.pyc
+.DS_Store
